@@ -1,6 +1,4 @@
-# monkafenixjaro_website
-
-<h1><a href="https://winuxwinfree.github.io/mfjwebsite">WEBSTIE</a></h1>
+<h1><a href="https://winuxwinfree.github.io/mfjwebsite">WEBSITE</a></h1>
 <img src="pictures/mfjwebsite.gif"/>
 
 <pre>
