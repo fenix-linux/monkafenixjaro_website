@@ -1,4 +1,6 @@
 # monkafenixjaro_website
 
-<img src="pictures/appsmfj.gif"/><br>
+<center>
 <img src="pictures/mfjwebsite.gif"/>
+<img src="pictures/appsmfj.gif"/>
+ </center>
