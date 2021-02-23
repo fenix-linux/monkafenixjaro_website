@@ -1,6 +1,7 @@
 # monkafenixjaro_website
 
-<center>
+
 <img src="pictures/mfjwebsite.gif"/>
-<img src="pictures/appsmfj.gif"/>
- </center>
+<center><img src="pictures/appsmfj.gif"/> </center>
+<a href="https://winuxwinfree.github.io/mfjwebsite">WEBSTIE</a>
+
